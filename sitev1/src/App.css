@@ -1,0 +1,17 @@
+img { 
+  margin:0px auto 0px auto;
+  width: 100%;
+  height: 200px;
+}
+.englobant{
+  width: 80%;
+  margin : 0px auto 30px auto ;
+}
+.red
+{
+  background-color: rgb(8, 58, 41);
+  text-align: center;
+}
+.title{
+color :white;
+}
